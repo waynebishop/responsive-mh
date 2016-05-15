@@ -33,8 +33,15 @@ nav {
 #logo {
 	position: absolute;
 	top: 60px;
-	left: 50px; 
+	left: 50px;
+	font-size: 50px;
+	color: #fff;
+	font-family: new-york;
+	font-style: italic;
+	padding-top: 15px;
+
 }
+
 
 #bar,
 #bar-2 {
@@ -100,13 +107,6 @@ nav ul li {
 	display: none;
 }
 
-#logo {
-	font-size: 50px;
-	color: #fff;
-	font-family: new-york;
-	font-style: italic;
-	padding-top: 15px;
 
-}
 
 
